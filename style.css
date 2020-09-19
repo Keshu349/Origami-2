@@ -1,0 +1,53 @@
+.Header{
+    display:flex;
+    background-color: saddlebrown;
+    justify-content: center;
+}
+.H1{
+    display:flex;
+    background-color: peru;
+}
+.H2{
+    display:flex;
+    background-color: peru;
+}
+.H3{
+    display:flex;
+    background-color: peru;
+}
+.H4{
+    display:flex;
+    background-color: peru;
+}
+.H5{
+    display:flex;
+    background-color: peru;
+}
+.H6{
+    display:flex;
+    background-color: peru;
+}
+.C1{
+    display:flex;
+    background-color: sandybrown;
+}
+.C2{
+    display:flex;
+    background-color: sandybrown;
+}
+.C3{
+    display:flex;
+    background-color: sandybrown;
+}
+.C4{
+    display:flex;
+    background-color: sandybrown;
+}
+.C5{
+    display:flex;
+    background-color: sandybrown;
+}
+.C6{
+    display:flex;
+    background-color: sandybrown;
+}
